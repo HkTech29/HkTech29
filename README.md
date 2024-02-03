@@ -6,7 +6,7 @@ I'm a Fullstack Developer. I'm passionate about artificial intelligence and Inte
 <a href="https://hktech29.github.io/profile/">😎</a>
 
 
-## 🍻 Development stack Stack
+## 🍻 Development Stack
 
 Here are a few things I've picked up along my learning journey.
 
