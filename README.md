@@ -1,6 +1,6 @@
 # <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Hendra 👨‍💻
 
-I'm a Fullstack Developer. I'm passionate about artificial intelligence and Internet of Things.
+I'm a Fullstack Developer. I'm passionate about Cloud Computing and Internet of Things.
 
 <a href="https://hktech29.github.io/">📬</a>
 <a href="https://hktech29.github.io/profile/">😎</a>
